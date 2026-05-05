@@ -32,9 +32,8 @@
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/YOUR_GITHUB_USERNAME/blending-blender-and-xxx.git
-   cd blending-blender-and-xxx
-   ```
+   git clone https://github.com/rjdeveloper/BlendingBlender.git
+   
 2. **Install Python dependencies:**
    ```bash
    pip install -r requirements.txt
