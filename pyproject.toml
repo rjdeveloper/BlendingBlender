@@ -1,0 +1,21 @@
+[project]
+name = "Blending Blender and xxx"
+version = "0.1.0"
+description = "A beautiful open-source project that blends Blender automation with xxx (replace with your integration), featuring a powerful MCP agent for creative workflows. No Groq API keys or secrets are included."
+dependencies = [
+    "fastapi",
+    "uvicorn",
+    "streamlit",
+    "langgraph",
+    "langchain",
+    "langchain-groq",
+    "python-dotenv",
+    "requests",
+    "pydantic",
+    "mcp",
+    "langchain-community",
+    "tavily-python",
+]
+
+[tool.uv]
+managed = true
