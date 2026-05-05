@@ -1,12 +1,10 @@
-# Blending Blender and xxx
-
-A beautiful open-source project that blends Blender automation with xxx (replace with your integration of choice), featuring a powerful MCP agent for creative workflows.
+# Blending Blender
 
 ---
 
 ## 🚀 Project Overview
 
-**Blending Blender and xxx** is an innovative platform that connects Blender with xxx, enabling advanced creative automation, generative design, and seamless workflow integration. Built with modern Python, FastAPI, and a Next.js frontend, this project is perfect for artists, designers, and developers who want to supercharge their Blender experience.
+**Blending Blender ** is an innovative platform that connects Blender, enabling advanced creative automation, generative design, and seamless workflow integration. Built with modern Python, FastAPI, and a Next.js frontend, this project is perfect for artists, designers, and developers who want to supercharge their Blender experience.
 
 - **No Groq API keys or secrets are included in this repository.**
 - All sensitive credentials are managed securely and are never pushed to the public repo.
@@ -18,7 +16,6 @@ A beautiful open-source project that blends Blender automation with xxx (replace
 - Blender automation and scripting
 - MCP agent integration for creative tasks
 - Modern Next.js frontend
-- Extensible with your own xxx integration
 - Audit logging and skill-based architecture
 
 ---
@@ -75,16 +72,10 @@ This project is [MIT licensed](LICENSE).
 
 ---
 
-## 🌐 Project Links
-
-- **GitHub:** https://github.com/YOUR_GITHUB_USERNAME/blending-blender-and-xxx
-- **Live Demo:** (add your deployment URL here)
-
----
 
 ## 🔒 Security
 
-No Groq API keys or sensitive credentials are included in this repository. Please manage your own secrets securely.
+No Groq API keys or sensitive credentials are included in this repository. Please manage your own secrets securely. A mini cpm 5b also capable for the easy designs.
 
 ---
 
@@ -93,5 +84,3 @@ No Groq API keys or sensitive credentials are included in this repository. Pleas
 For questions or support, open an issue or contact the maintainer via GitHub.
 
 ---
-
-> **Note:** Replace `xxx` with your integration of choice and update the GitHub username and links as needed.
